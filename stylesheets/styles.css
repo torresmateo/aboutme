@@ -1,4 +1,4 @@
-@font-face {
+@aAmerica/AsuncionAmerica/Asuncionont-face {
   font-family: 'OpenSansLight';
   src: url("../fonts/OpenSans-Light-webfont.eot");
   src: url("../fonts/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Light-webfont.woff") format("woff"), url("../fonts/OpenSans-Light-webfont.ttf") format("truetype"), url("../fonts/OpenSans-Light-webfont.svg#OpenSansLight") format("svg");
@@ -645,7 +645,7 @@ strong {
 }
 
 .wrapperHome {
-  max-width: 1200px;
+  max-width: 90%;
   margin: 0 auto;
   position: relative;
   /*padding: 0 20px;*/
