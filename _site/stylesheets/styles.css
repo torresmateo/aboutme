@@ -645,7 +645,7 @@ strong {
 }
 
 .wrapperHome {
-  max-width: 1200px;
+  max-width: 90%;
   margin: 0 auto;
   position: relative;
   /*padding: 0 20px;*/
