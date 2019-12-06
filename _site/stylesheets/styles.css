@@ -906,11 +906,29 @@ section #title .credits.right {
 /*===================================== RHUL ===========================*/
 
 #rhulLogo{
-    width: 200px;
-    position: absolute;
-    top: 143px;
+    width: 33%;
+    float:left;
+}
+
+#rhulLogo img{
+    max-width:250px;
+}
+
+#maintitle{
+    width:33%;
+    float:left;
 }
 
 .titleWrap{
     overflow: hidden;
+}
+
+.gravatar{
+    border-radius: 50%;
+    float:right;
+}
+
+#gravcontainer{
+    float:right;
+    width:33%;
 }
