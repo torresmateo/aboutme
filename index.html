@@ -5,20 +5,40 @@ categories: en
 ---
 
 <div id="home">
-    <p>I graduated from <i>Universidad Católica "Nuestra Señora de la Asunción"</i> in Paraguay with a MSc in Computer Science, specialising in many-objective optimisation using the Particle Swarm meta-heuristic.</p>
+    <p>I work on Computational Biology. Specifically, I focus on Protein Function Prediction, and have collaborated in the development of automatic annotation algorithms and functional databases such as <a href="https://paccanarolab.org/s2f">S2F</a> and <a href="https://paccanarolab.org/icrep/">ICrep</a>.</p>
+
+    <p>In addition to Computational Biology, I am interested in the development and adoption of Machine Learning and Artificial Intelligence, especially when it helps combating climate change.</p>
+
+    <h2>Academic stuff</h2>
+
+    <p>I got a PhD in Computer Science at <a href="https://www.royalholloway.ac.uk/">Royal Holloway, University of London</a> specialising in Computational Biology. Before that, I graduated from <a href="https://www.universidadcatolica.edu.py/">Universidad Católica "Nuestra Señora de la Asunción"</a> with an Engineering degree in Computer Science, specialising in many-objective optimisation using the Particle Swarm meta-heuristic.</p>
+
+
+    <h3>Publications</h4>
+
+    <div class="publist">
+        <ul>
+        {% for post in site.categories.science %}
+            {% if post.work-type == 'Paper' %}
+            <li>
+                <a href="{% if post.ref-doi %}http://dx.doi.org/{{ post.ref-doi }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"><strong>{{ post.ref-authors }} ({{ post.ref-year }}).</strong></a>
+                <p>
+                    {{ post.ref-title }}.<br>
+                    <em>{{ post.ref-journal}}</em>
+                    {% if post.ref-vol %}, {{ post.ref-vol }}{% endif %}.<br> 
+                    {% if post.ref-doi %}
+                        doi: <a href="http://dx.doi.org/{{ post.ref-doi }}">{{ post.ref-doi }}</a>
+                    {% endif %}
+                </p>
+            </li>
+            {% endif %}
+        {% endfor %}
+        <ul>
+    </div>
+
+    <h2>Work stuff</h2>
 
     <p>During my undergraduate years I worked in web development at <a href="http://arsisteam.com">Arsis</a> and <a href="http://www.cba.com.py">CBA</a> until 2015, when I joined the <a href="http://www.paccanarolab.org">PaccanaroLab</a> group as a PhD Student under the supervision of Prof. Alberto Paccanaro.</p>
     
-    <p>I maintain collaborations with parasitologists and experimental biologists in Paraguay, studying tropical diseases such as Chagas disease, a parasitosis caused by the Trypanosoma cruzi.</p>
-    <h3>Contact Information</h3>
-    <p>
-        <a href="mailto:Mateo.Torres.2015@live.rhul.ac.uk">Mateo.Torres.2015@live.rhul.ac.uk</a><br>
-        Department of Computer Science<br>
-        Royal Holloway, University of London<br>
-        TW20 0EX<br>
-        Egham, Surrey<br>
-        United Kingdom<br>
-        Office 109, McCrea Building
-    </p>
 </div>
 
