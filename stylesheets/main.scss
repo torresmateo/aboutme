@@ -31,6 +31,12 @@ h3{
 	color: $title-text-color-h3;
 }
 
+.page-wrapper strong {
+    font-size: 1.1em;
+    font-family: Arial;
+    color: red;
+}
+
 header,
 main {
 	padding: 0 20px;
@@ -62,7 +68,9 @@ a:hover {
 	}
 }
 
-
+#home {
+    padding-bottom: 300px;
+}
 
 /*** main content list ***/
 .main-list-item {
@@ -148,7 +156,7 @@ footer {
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
-	.wrapper {
+	.wrapper, .page-wrapper {
 		width: 480px;
 		margin: 10% auto 0 auto;
 	}
@@ -162,14 +170,25 @@ footer {
 		width: 90%;
 		max-width: 900px;
 	}
+    
+    .page-wrapper {
+		width: 90%;
+    }
 
 	/* the header column stays left and has a dynamic width with all contents
 	aligned right */
-	header {
+	.wrapper > header {
 		float: left;
 		width: 35%;
 		text-align: right;
 	}
+
+	.page-wrapper > header {
+		float: left;
+		width: 300pt;
+		text-align: right;
+	}
+
 
 	.author-container h1,
 	.logo-container,
@@ -177,9 +196,14 @@ footer {
 		text-align: right;
 	}
 
-	main {
+	.wrapper > main {
 		width: 45%;
 		margin-left: 45%;
 		padding: 0;
 	}
+	.page-wrapper > main {
+        margin-left: 350pt;
+        padding: 0;
+    
+    }
 }
