@@ -27,6 +27,8 @@ Por lo general, sábados a las 9:00 (Horario de Rio de Janeiro).
 
 Inicialmente, los streams serán anunciados por twitter, con el link al canal de twitch: <a  href="https://twitch.tv/maluchi">https://twitch.tv/maluchi<span class="fa fa-twitch fa-lg main-list-item-icon"></span></a>
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&src=cG4xMnQxZnVlZHRnMmhxajJkYW1ocWV0bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Índice de streams
 
 Al finalizar los streams, voy a subir las grabaciones a YouTube, ya que Twitch sólo mantiene las grabaciones por 14 días. Links a los VODs serán agregados acá.
