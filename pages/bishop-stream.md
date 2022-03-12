@@ -18,8 +18,15 @@ La estructura de los streams será (con mucha flexibilidad):
 **IMPORTANTE:** Los streams NO son un curso, aunque voy a intentar ser lo más didáctico posible. Dependiendo de la audiencia, podrían incluirse algunas sesiones de refuerzo en puntos específicos de cálculo, álgebra lineal y estadística. Pero por lo general voy a proveer links a los temas y queda por cuenta de cada uno estudiar eso.
 
 ## Contenido
+(sujeto a cambios)
 
-Será definido en el stream de prueba.
+Vamos a ir en profundidad en los temas del libro, y vamos a introducir los tres puntos de vista desde los cuales se construye el resto del contenido del libro:
+
+* Teoría de la probabilidad
+* Teoría de las decisiones
+* Teoría de la información
+
+Estos se cubren específicamente en el Capítulo 1 del libro. Luego, se explorarán los modelos de los siguientes capítulos, con ejemplos puntuales y código para casos puntuales.
 
 ## Streams
 
@@ -32,3 +39,5 @@ Inicialmente, los streams serán anunciados por twitter, con el link al canal de
 ## Índice de streams
 
 Al finalizar los streams, voy a subir las grabaciones a YouTube, ya que Twitch sólo mantiene las grabaciones por 14 días. Links a los VODs serán agregados acá.
+
+[001 -- Stream de Prueba](https://youtu.be/FUXvSpvtTUE)

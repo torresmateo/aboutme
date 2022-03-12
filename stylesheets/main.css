@@ -62,7 +62,7 @@ a:hover {
   margin-top: 0;
 }
 
-#home {
+#home, .page-wrapper {
   padding-bottom: 300px;
 }
 
