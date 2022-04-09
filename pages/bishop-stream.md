@@ -40,6 +40,7 @@ Inicialmente, los streams serán anunciados por twitter, con el link al canal de
 
 Al finalizar los streams, voy a subir las grabaciones a YouTube, ya que Twitch sólo mantiene las grabaciones por 14 días. Links a los VODs serán agregados acá.
 
+* [005 -- Interpretación Bayesiana de las probabilidades](https://youtu.be/92DMA28Hcks)
 * [004 -- Probabilidad de variables continuas, esperanza y covarianza](https://youtu.be/m9Z0VjD3KY0)
 * [003 -- teoría de las probabilidades](https://youtu.be/AZ2P9HZ34FI)
 * [002 -- Introducción y Polynomial Curve Fitting](https://youtu.be/xdyHPreK1_I)
