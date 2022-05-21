@@ -40,6 +40,7 @@ Inicialmente, los streams serán anunciados por twitter, con el link al canal de
 
 Al finalizar los streams, voy a subir las grabaciones a YouTube, ya que Twitch sólo mantiene las grabaciones por 14 días. Links a los VODs serán agregados acá.
 
+* [010 -- Teoría de las decisiones](https://youtu.be/gpNeczDv_FE)
 * [009 -- Maldición de la dimensionalidad](https://youtu.be/JMNEJeACuE8)
 * [008 -- Selección de Modelos](https://youtu.be/9uLkAnp_xeM)
 * [007 -- Ajuste probabilístico del polinomio](https://youtu.be/bJBgm7nkPns)
