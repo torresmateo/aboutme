@@ -40,6 +40,7 @@ Inicialmente, los streams serán anunciados por twitter, con el link al canal de
 
 Al finalizar los streams, voy a subir las grabaciones a YouTube, ya que Twitch sólo mantiene las grabaciones por 14 días. Links a los VODs serán agregados acá.
 
+* [013 -- Entropía](https://youtu.be/uZeNxWxHmi4)
 * [012 -- Funciones de costo para regresión](https://youtu.be/PYvmKqbm694)
 * [011 -- Inferencia y decisiones](https://youtu.be/Cm-MLFwECYo)
 * [010 -- Teoría de las decisiones](https://youtu.be/gpNeczDv_FE)
