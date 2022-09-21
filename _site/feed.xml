@@ -3,16 +3,16 @@
         <channel>
                 <title>Mateo Torres</title>
                 <description>A place to find rants and some videogame dev stuff!</description>
-                <link>http://localhost:4000</link>
-                <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+                <link>https://torresmateo.com</link>
+                <atom:link href="https://torresmateo.com/feed.xml" rel="self" type="application/rss+xml" />
                 
                         <item>
                                 <title>Unlike Chloroquine, Mefloquine Inhibits SARS-CoV-2 Infection in Physiologically Relevant Cells</title>
                                 <description>
 </description>
                                 <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-                                <link>http://localhost:4000//mefloquine/</link>
-                                <guid isPermaLink="true">http://localhost:4000//mefloquine/</guid>
+                                <link>https://torresmateo.com//mefloquine/</link>
+                                <guid isPermaLink="true">https://torresmateo.com//mefloquine/</guid>
                         </item>
                 
                         <item>
@@ -20,8 +20,8 @@
                                 <description>
 </description>
                                 <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-                                <link>http://localhost:4000//s2f/</link>
-                                <guid isPermaLink="true">http://localhost:4000//s2f/</guid>
+                                <link>https://torresmateo.com//s2f/</link>
+                                <guid isPermaLink="true">https://torresmateo.com//s2f/</guid>
                         </item>
                 
                         <item>
@@ -29,8 +29,8 @@
                                 <description>
 </description>
                                 <pubDate>Fri, 21 Aug 2015 00:00:00 +0100</pubDate>
-                                <link>http://localhost:4000//cell/</link>
-                                <guid isPermaLink="true">http://localhost:4000//cell/</guid>
+                                <link>https://torresmateo.com//cell/</link>
+                                <guid isPermaLink="true">https://torresmateo.com//cell/</guid>
                         </item>
                 
                         <item>
@@ -38,8 +38,8 @@
                                 <description>
 </description>
                                 <pubDate>Fri, 21 Aug 2015 00:00:00 +0100</pubDate>
-                                <link>http://localhost:4000//cafa3/</link>
-                                <guid isPermaLink="true">http://localhost:4000//cafa3/</guid>
+                                <link>https://torresmateo.com//cafa3/</link>
+                                <guid isPermaLink="true">https://torresmateo.com//cafa3/</guid>
                         </item>
                 
         </channel>
