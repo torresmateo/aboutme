@@ -6,3 +6,4 @@ url: https://torresmateo.com
 #url: http://localhost:4000/ 
 timezone: "Europe/London"
 permalink: /:title/
+include: [".well-known"]
